@@ -38,8 +38,8 @@ Dinic's Algorithm works in two main steps:
 This continues until no more flow can be pushed.
 
 ## Project Structure
-Splitwise-Debt-Simplification
-│  
+Splitwise-Debt-Simplification  
+│    
 ├── main.cpp       # Program entry point  
 ├── dinic.h        # Dinic algorithm declaration  
 ├── dinic.cpp      # Dinic algorithm implementation  
