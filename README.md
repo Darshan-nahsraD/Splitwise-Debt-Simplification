@@ -39,11 +39,11 @@ This continues until no more flow can be pushed.
 
 ## Project Structure
 Splitwise-Debt-Simplification
-│
-├── main.cpp       # Program entry point
-├── dinic.h        # Dinic algorithm declaration
-├── dinic.cpp      # Dinic algorithm implementation
-└── README.md      # Project documentation
+│  
+├── main.cpp       # Program entry point  
+├── dinic.h        # Dinic algorithm declaration  
+├── dinic.cpp      # Dinic algorithm implementation  
+└── README.md      # Project documentation  
 
 ## Technologies Used
 
@@ -56,13 +56,13 @@ Splitwise-Debt-Simplification
 
 Original transactions:
 
-A pays B -> 50
-B pays C -> 50
-C pays A -> 50
+A pays B -> 50  
+B pays C -> 50  
+C pays A -> 50  
 
 Simplified result:
 
-A pays C -> 50
+A pays C -> 50  
 
 ## Author
 
