@@ -1,1 +1,1 @@
-# Splitwise-Dept-Simplification
+# Splitwise-Debt-Simplification
